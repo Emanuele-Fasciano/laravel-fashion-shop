@@ -1,0 +1,17 @@
+@import '~bootstrap/scss/bootstrap';
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    height: 100px;
+}
+.rotate-180 {
+  transform: rotate(180deg);
+}
+
+#navbar-custom {
+    background-color: #fcfcfe !important;
+  }
+
